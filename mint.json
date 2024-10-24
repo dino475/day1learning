@@ -1,18 +1,50 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Dino Corp",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/logo/light.svg",
+    "href": "https://www.liverpoolfc.com/"
   },
   "favicon": "/favicon.svg",
+  "theme": "prism",
+  "layout": "solidSidenav",
+  "backgroundImage": "",
+  "sidebar": {
+    "items": "container"
+  },
+  "topbar": {
+    "style": "default"
+  },
+  "search": {
+    "location": "top"
+  },
+  "rounded": "default",
+  "codeBlock": {
+    "mode": "dark"
+  },
+  "font": {
+    "headings": {
+      "family": ""
+    },
+    "body": {
+      "family": ""
+    }
+  },
+  "background": {
+    "style": "windows"
+  },
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#D00027",
+    "light": "#FDF667",
+    "dark": "#00A398",
+    "background": {
+      "light": "#FFD0D0",
+      "dark": "#262626"
+    },
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#D00027",
+      "to": "#FDF667"
     }
   },
   "topbarLinks": [
