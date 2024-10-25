@@ -49,35 +49,36 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Liverpool FC Reddit",
+      "url": "https://www.reddit.com/r/LiverpoolFC/"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
+  "type": "github",
+  "url": "https://github.com/dino475/day1learning"
+},
   "tabs": [
-    {
+    { 
       "name": "API Reference",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
+      "name": "Anfield Wrap",
+      "icon": "youtube",
+      "url": "https://www.youtube.com/theanfieldwrap"
+    },
+    {
       "name": "Documentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
+    
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Appbuilder270",
+      "icon": "fishing-rod",
+      "url": "https://appbuilder270.github.io/index.html"
     }
   ],
   "navigation": [
