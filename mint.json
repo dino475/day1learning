@@ -21,7 +21,7 @@
   },
   "rounded": "default",
   "codeBlock": {
-    "mode": "dark"
+    "mode": "auto"
   },
   "font": {
     "headings": {
@@ -82,9 +82,20 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Group 1",
+      "icon": "rocket",
       "pages": [
-        "introduction",
+        "page1",
+        {
+          "group": "Page 2",
+          "icon": "rocket",
+          "iconType": "solid",
+          "pages": [
+            "subpage1",
+            "subpage2"
+          ]
+        },
+        "Dean",
         "quickstart",
         "development"
       ]
