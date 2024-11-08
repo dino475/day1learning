@@ -61,6 +61,10 @@
     { 
       "name": "API Reference",
       "url": "api-reference"
+    },
+    {
+      "name": "Dean",
+      "url": "dean-tab"
     }
   ],
   "anchors": [
@@ -70,7 +74,7 @@
       "url": "https://www.youtube.com/theanfieldwrap"
     },
     {
-      "name": "Documentation",
+      "name": "Mintlify Docs",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -78,7 +82,12 @@
     {
       "name": "Appbuilder270",
       "icon": "fishing-rod",
-      "url": "https://appbuilder270.github.io/index.html"
+      "url": "https://appbuilder270.github.io/index.html",
+      "iconType": "solid",
+      "color": {
+        "from": "#355E3B",
+        "to": "#90EE90"
+      }
     }
   ],
   "navigation": [
@@ -125,6 +134,13 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+    "group": "Deano",
+    "pages": [
+      "dean-tab/cool",
+      "dean-tab/another-one"
+    ]
     }
   ],
   "footerSocials": {
