@@ -58,6 +58,11 @@
   "url": "https://github.com/dino475/day1learning"
 },
   "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference",
+      "openapi": "/api-reference/openapi.yaml"
+    },
     { 
       "name": "API Reference",
       "url": "api-reference"
@@ -125,14 +130,6 @@
       "group": "API Documentation",
       "pages": [
         "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     },
     {
