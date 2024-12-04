@@ -17,7 +17,8 @@
     "style": "default"
   },
   "search": {
-    "location": "top"
+    "location": "top",
+    "prompt": "type here to search the docs using AI"
   },
   "rounded": "default",
   "codeBlock": {
@@ -95,6 +96,16 @@
       }
     }
   ],
+  "versions": [
+    {
+      "name": "English",
+      "locale": "en"
+    },
+    {
+      "name": "Spanish",
+      "locale": "es"
+    }
+  ],
   "navigation": [
     {
       "group": "Group 1",
@@ -110,7 +121,7 @@
             "subpage2"
           ]
         },
-        "Dean",
+        "dean",
         "quickstart",
         "development"
       ]
@@ -137,6 +148,13 @@
     "pages": [
       "dean-tab/cool",
       "dean-tab/another-one"
+    ]
+    },
+    {
+    "group": "Spanish Group",
+    "version": "Spanish",
+    "pages": [
+      "spanish-v2/spanish"
     ]
     }
   ],
