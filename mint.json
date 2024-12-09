@@ -64,10 +64,6 @@
       "url": "api-reference",
       "openapi": "/api-reference/openapi.yaml"
     },
-    { 
-      "name": "API Reference",
-      "url": "api-reference"
-    },
     {
       "name": "Dean",
       "url": "dean-tab"
