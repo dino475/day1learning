@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Dino Corp",
+  "name": "Dino Corporation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg",
@@ -40,7 +40,7 @@
     "light": "#FDF667",
     "dark": "#00A398",
     "background": {
-      "light": "#FFD0D0",
+      "light": "#FFD0D1",
       "dark": "#262626"
     },
     "anchors": {
