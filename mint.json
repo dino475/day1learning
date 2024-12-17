@@ -8,10 +8,10 @@
   },
   "favicon": "/favicon.svg",
   "theme": "prism",
-  "layout": "solidSidenav",
+  "layout": "topnav",
   "backgroundImage": "",
   "sidebar": {
-    "items": "container"
+    "items": "border"
   },
   "topbar": {
     "style": "default"
