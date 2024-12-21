@@ -20,6 +20,9 @@
     "location": "top",
     "prompt": "type here to search the docs using AI"
   },
+    "feedback": {
+    "suggestEdit": true
+  },
   "rounded": "default",
   "codeBlock": {
     "mode": "auto"
